@@ -91,6 +91,10 @@ ForegroundNormal=41,47,52
 ForegroundPositive=52,152,219
 ForegroundVisited=145,61,136
 
+[DirSelect Dialog]
+DirSelectDialog Size=828,568
+History Items[$e]=file:$HOME/.config/themes/kvantum/Nordic
+
 [General]
 ColorScheme=Breath2
 Name=Breath2
@@ -98,9 +102,10 @@ shadeSortColumn=true
 toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=breath2
+Theme=Nordic
 
 [KDE]
+LookAndFeelPackage=Nordic
 contrast=4
 widgetStyle=Breeze
 

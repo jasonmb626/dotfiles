@@ -7,7 +7,14 @@ OpenGLIsUnsafe=false
 [Desktops]
 Id_1=524459ce-5758-499f-b550-2c30c96e8ad6
 Id_2=32b981e9-eafb-44f1-b7fd-bee803d47238
-Rows=2
+Id_3=7f100522-92a4-4b73-a771-394084d0efed
+Id_4=8461e274-d749-4470-8a70-e9f0fe79d34a
+Id_5=8d96d1ae-9764-4bc0-bc2c-b952fe1d78c1
+Id_6=d3d85ad2-d502-4838-9f41-f1db4263a8a7
+Id_7=6c22411b-ad4e-42ac-813a-1317e9fcc70e
+Id_8=4e5f998e-f3c4-4e72-8e17-8581602e2ec2
+Number=8
+Rows=1
 
 [Plugins]
 desktopchangeosdEnabled=false
@@ -15,3 +22,7 @@ krohnkiteEnabled=true
 minimizeallEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Nordic

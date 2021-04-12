@@ -12,7 +12,7 @@ activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=4
+location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -21,7 +21,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][2][Configuration]
-PreloadWeight=97
+PreloadWeight=100
 
 [Containments][1][Applets][2][Configuration][General]
 favorites=firefox.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
@@ -39,6 +39,10 @@ plugin=org.kde.plasma.pager
 
 [Containments][1][Applets][3][Configuration]
 PreloadWeight=34
+
+[Containments][1][Applets][3][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
 [Containments][1][Applets][4]
 immutability=1
@@ -91,6 +95,10 @@ showDate=true
 DialogHeight=540
 DialogWidth=720
 
+[Containments][1][ConfigDialog]
+DialogHeight=52
+DialogWidth=1360
+
 [Containments][1][Configuration]
 PreloadWeight=34
 
@@ -106,18 +114,28 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][17][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][17][Configuration]
 PreloadWeight=34
 
+[Containments][17][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=287
+ToolBoxButtonY=30
+
 [Containments][17][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Breath2/contents/images/1920x1080.png
+Image=file:///home/jason/.local/share/wallpapers/3908317.jpg
+SlidePaths=/home/jason/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][8]
 activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=4
+location=3
 plugin=org.kde.plasma.private.systemtray
 wallpaperplugin=org.kde.image
 
