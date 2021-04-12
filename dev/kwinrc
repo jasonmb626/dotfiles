@@ -23,6 +23,13 @@ minimizeallEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 
+[TabBox]
+DesktopLayout=org.kde.breeze.desktop
+DesktopListLayout=org.kde.breeze.desktop
+LayoutName=org.kde.breeze.desktop
+
 [org.kde.kdecoration2]
+ButtonsOnLeft=XIA
+ButtonsOnRight=
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Nordic

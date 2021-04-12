@@ -1,5 +1,6 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
+switch-to-activity-28ef6909-9e27-4029-aa3c-b8d94ea7075c=none,none,Switch to activity "Default"
 switch-to-activity-3fee5123-4b55-475d-a63d-b282c2351825=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
@@ -120,7 +121,7 @@ Switch to Desktop 19=none,none,Switch to Desktop 19
 Switch to Desktop 2=Ctrl+F2\tMeta+I,Ctrl+F2,Switch to Desktop 2
 Switch to Desktop 20=none,none,Switch to Desktop 20
 Switch to Desktop 3=Meta+O\tCtrl+F3,Ctrl+F3,Switch to Desktop 3
-Switch to Desktop 4=Ctrl+F4\t,Ctrl+F4,Switch to Desktop 4
+Switch to Desktop 4=Meta+P\tCtrl+F4,Ctrl+F4,Switch to Desktop 4
 Switch to Desktop 5=Meta+Alt+U,none,Switch to Desktop 5
 Switch to Desktop 6=Meta+Alt+I,none,Switch to Desktop 6
 Switch to Desktop 7=Meta+Alt+O,none,Switch to Desktop 7
@@ -255,7 +256,7 @@ Turn Off Screen=none,none,Turn Off Screen
 _k_friendly_name=Power Management
 
 [plasmashell]
-_k_friendly_name=Plasma
+_k_friendly_name=Activity switching
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
@@ -266,15 +267,15 @@ activate task manager entry 6=none,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
-activate widget 2=Meta+Space,none,Activate Application Launcher Widget
+activate widget 2=Alt+F1,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
 edit_clipboard=none,none,Edit Contents...
 manage activities=none,Meta+Q,Show Activity Switcher
-next activity=Meta+Tab,none,Walk through activities
-previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
+next activity=Meta+Tab,Meta+Tab,Walk through activities
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,none,Show Barcode...
