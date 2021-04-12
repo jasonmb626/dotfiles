@@ -1,0 +1,28 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101b61641cd1b1000161822872600000007760005
+clientId2=101b61641cd1b1000161822872600000007760006
+clientId3=101b61641cd1b1000161822910800000008020008
+clientId4=101b61641cd1b1000161822926200000008020011
+count=4
+program1=/usr/bin/pamac-tray-plasma
+program2=/usr/bin/msm_kde_notifier
+program3=pulseaudio
+program4=firefox
+restartCommand1=/usr/bin/pamac-tray-plasma,-session,101b61641cd1b1000161822872600000007760005_1618229630_87171
+restartCommand2=/usr/bin/msm_kde_notifier,-session,101b61641cd1b1000161822872600000007760006_1618229630_87159
+restartCommand3=
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,101b61641cd1b1000161822926200000008020011
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=jason
+userId2=jason
+userId3=jason
+userId4=jason

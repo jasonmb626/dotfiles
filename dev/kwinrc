@@ -1,0 +1,17 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=524459ce-5758-499f-b550-2c30c96e8ad6
+Id_2=32b981e9-eafb-44f1-b7fd-bee803d47238
+Rows=2
+
+[Plugins]
+desktopchangeosdEnabled=false
+krohnkiteEnabled=true
+minimizeallEnabled=false
+synchronizeskipswitcherEnabled=false
+videowallEnabled=false
