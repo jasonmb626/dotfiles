@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Nordic KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1326271</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>115941</downloads>
+  <installedfile>/home/jason/.local/share/color-schemes/Nordic.colors</installedfile>
+  <installedfile>/home/jason/.local/share/color-schemes/NordicDarker.colors</installedfile>
+  <id>1326271</id>
+  <releasedate>2019-10-01</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1327093/" target="_blank" rel="nofollow"> Nordic...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/4/2/4/2159613d6404b04b0ebb587b1c3734aeb2fb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/4/2/4/2159613d6404b04b0ebb587b1c3734aeb2fb.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Njk5NjQ5ODgiLCJvIjoiMSIsInMiOiIwODVhNGQyMmQ5YWQxZjE0Mzg1NzliN2U5YmQ1OWU3MDcwYzVkZjU3OTJiNzY2NGI4MWE3ZmM5MDU3ZTBjZTgzYmM1ZjIwODljZmY5MzMzNjY1YjllNzNkNDNhYzk3YWVlZDAyOTk1OTAwODFmYTIwMTEyNmJjNDMyZTVmYzg0OSIsInQiOjE2MTgzMTU5NzgsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.xWnKZVyO4s0VkLOWcIt4IhOpKI_RLSA7cJvpxDwEdb8/Nordic.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

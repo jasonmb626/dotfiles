@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Nordic solid KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1416702</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>48252</downloads>
+  <installedfile>/home/jason/.local/share/plasma/desktoptheme/Nordic-Solid</installedfile>
+  <id>1416702</id>
+  <releasedate>2020-08-28</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1326271/" target="_blank" rel="nofollow">Nordic color scheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a>&lt;br />
+&lt;br />
+Wallpaper in screenshot &lt;a href="https://i.imgur.com/SBKjnxm.jpg" target="_blank" rel="nofollow"> here &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/6/f/f/f96c6d3111b608627e1b9937c589092104e0096e17326232138477052ce93d477760.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/6/f/f/f96c6d3111b608627e1b9937c589092104e0096e17326232138477052ce93d477760.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTg2NDcyODIiLCJvIjoiMSIsInMiOiI5MDAxZDYxMDE5OGFiYmQ5ZmViZjU3YzA2MTExMmE4ODEyYjA4NWQ5NGRhNDUzNDZjMzg0OTZkMGJhZGMxZWRlMDg1ZGY0N2RmYjEyYTM0MWJmZWE1Y2NlNTdmZTI4MzFlYjk0OWQyMTdiMDc2YTBhMDg0OTAwYmY2MWNjZjFlZSIsInQiOjE2MTgzMTQ3NzEsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.bFe-FsH7XcfVLjSioL1Ek3cxQyijmMVMd1YT0CZex84/Nordic-Solid.tar.xz</payload>
+  <tags>cc-by-sa,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

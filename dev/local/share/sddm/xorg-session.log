@@ -1,0 +1,23 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 731, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/jason/.gtkrc:/home/jason/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/jason/.gtkrc-2.0:/home/jason/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/803,unix/jason-virtualbox:/tmp/.ICE-unix/803' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/803,unix/jason-virtualbox:/tmp/.ICE-unix/803' from launcher.
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+** Message: 06:25:31.231: updates_checker.vala:71: check updates
+** Message: 06:25:33.286: updates_checker.vala:101: 0 updates found
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'

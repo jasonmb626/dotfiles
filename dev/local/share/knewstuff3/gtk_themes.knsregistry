@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Nordic</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1267246</homepage>
+  <licence></licence>
+  <version>1.8.1</version>
+  <rating>93</rating>
+  <downloads>36187</downloads>
+  <installedfile>/home/jason/.themes/Nordic-bluish-accent/*</installedfile>
+  <id>1267246</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>&lt;strong>Description&lt;/strong>&lt;br />
+&lt;br />
+Nordic is a Gtk3.20+ theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color pallete.&lt;br />
+&lt;br />
+&lt;strong>Installation:&lt;/strong>&lt;br />
+&lt;br />
+1.- Extract the zip file to the themes...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/7/2/5/12a03a74831e9483e0a5a2db51ade447b1d4.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/7/2/5/12a03a74831e9483e0a5a2db51ade447b1d4.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwODU4OTYiLCJvIjoiMSIsInMiOiI4NTk4ODc3MDExMjFkZWMxOWUyNzRjOTJmYTg3YTY4NjUzZjBlNGMxYTllNjc0NmUzZGY4ZTc2ZTZmYjg3ZGE4MzQzZTNkYzk4NTJkMDJlMWY3YWQzNjE5ZjI3NGY5ZDZkYjRiNDQ5NzVlZjhlN2U0Nzc1ZWQ4MWQyMTdiMmY0YyIsInQiOjE2MTgzMTUwNjMsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.O1bzZ1w_3gMWvxY9_vO3S7Ft3tP_oujCMxjYHdVg4U0/Nordic-bluish-accent.tar.xz</payload>
+  <tags>linux,unix,theme,gnome,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

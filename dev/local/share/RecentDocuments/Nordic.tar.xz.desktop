@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-xz-compressed-tar
+Name=Nordic.tar.xz
+Type=Link
+URL[$e]=file:$HOME/Downloads/Nordic.tar.xz
+X-KDE-LastOpenedWith=

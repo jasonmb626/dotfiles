@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Nordic KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1326274</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>65426</downloads>
+  <installedfile>/home/jason/.local/share/aurorae/themes/Nordic/*</installedfile>
+  <id>1326274</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>Nordic is a dark theme created using the awesome &lt;a href="https://github.com/arcticicestudio/nord" target="_blank" rel="nofollow">Nord&lt;/a> color palette.&lt;br />
+&lt;br />
+&lt;br />
+Suggested settings: &lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/4/2/4/2159613d6404b04b0ebb587b1c3734aeb2fb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/4/2/4/2159613d6404b04b0ebb587b1c3734aeb2fb.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM2MzI3NjEiLCJvIjoiMSIsInMiOiJmZjBlZTFlZjliNzcyMjU2MWRmZGFmNzU1MGQ1ODhjMTAxOGQyNjRkODAzYzBlOWE3ZTMyNzQwYjU3ZTMxNTUzNTI2ZWJiNTdiNjIzMmE5M2NmOTg3YmY0N2Y1ODViZTNjNDRlZDZiODYxZTQ5NDNkMmY3MGQ4ODg3ZjkxNzMyNyIsInQiOjE2MTgzMTUxNzUsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.6AdO0fpLNiShD1U1GbsZMJXdUzLxTW4v6XrauU_a_uc/Nordic.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
