@@ -9,7 +9,7 @@
   <licence></licence>
   <version></version>
   <rating>64</rating>
-  <downloads>88515</downloads>
+  <downloads>88531</downloads>
   <installedfile>/tmp/Nordic.tar.xz</installedfile>
   <id>1366843</id>
   <releasedate>2020-03-13</releasedate>
@@ -17,21 +17,11 @@
 &lt;br />
 Suggested settings: &lt;br />
 &lt;br />
-&lt;a href="https://www.pling.com/p/1327093/" target="_blank" rel="nofollow"> Global theme&lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://www.pling.com/p/1326896/" target="_blank" rel="nofollow"> Nordic Plasma theme &lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1326272/" target="_blank" rel="nofollow">Nordic Kvantum theme&lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1326274/" target="_blank" rel="nofollow">Nordic Aurorae theme &lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://store.kde.org/p/1326271/" target="_blank" rel="nofollow">Nordic color scheme&lt;/a>&lt;br />
-&lt;br />
-&lt;a href="https://www.gnome-look.org/dl?file_id=1567965545&amp;amp;file_type=application/x-xz&amp;amp;file_name=Nordic-Folders.tar.xz&amp;amp;file_size=24000&amp;amp;project_id=1267246" target="_blank" rel="nofollow"> Folders &lt;/a></summary>
+&lt;a href="https://www.pling.com/p/1327093/" target="_blank" rel="nofollow"> Global...</summary>
   <changelog></changelog>
   <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/4/1/7/09f552f6f51d7fc97a9c26690257bc9f0d57.png</preview>
   <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/4/1/7/09f552f6f51d7fc97a9c26690257bc9f0d57.png</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODQxMzUzNzgiLCJvIjoiMSIsInMiOiJkM2QyZDhjMDFhY2VjYjU4ZTYxZmVlOWJiYzQwNGVlYjJhZDhlNDNhMDY3NGZjOTNhNGU2MWQ1YjM1OTRkZjAxM2QzZjUwZmJlOTE1NDAxOTdiNGY3NzExNzAwOGM4ZmU0ODY5ZGIwYzEzMzc1ZTU4Y2UxZTc0OTExNWU3OWZmMiIsInQiOjE2MTgzMTQ5ODMsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.n3EAt3bwzlCdYa4X3RqmIwJXkDQO11q_aOp4eihPj1M/Nordic.tar.xz</payload>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODQxMzUzNzgiLCJvIjoiMSIsInMiOiJiM2FhMzgyZjhlZTNiOTYyZjk0ZTdhMTVjNzM0NjdlZjQ4YTg5OTMwNmFmYTMxMjcyNDVjYWI1OTBkMDVmMTY2NTIxMGViMzYwYTRhOWRlM2EzODZhNmNkNWM5MTIzNGMxMGY5MTc4ZDc2OTJjZDc3NjY0ZjUyNGY1NGQ5ZDVlMiIsInQiOjE2MTgzMTgzMzgsInN0ZnAiOm51bGwsInN0aXAiOiI5OC4zNC43MS40OSJ9.XgjeI7fLGltKzNa-dowUMwid9TzIMu94_ZC4jcJ4n7c/Nordic.tar.xz</payload>
   <tags>gplv3,linux,unix</tags>
   <status>installed</status>
  </stuff>
