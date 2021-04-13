@@ -1,18 +1,18 @@
 kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
-kdeinit5: Launched KLauncher, pid = 732, result = 0
+kdeinit5: Launched KLauncher, pid = 731, result = 0
 kdeinit5: opened connection to :0
 kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
 kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
 kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/jason/.gtkrc:/home/jason/.config/gtkrc' from launcher.
 kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/jason/.gtkrc-2.0:/home/jason/.config/gtkrc-2.0' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/804,unix/jason-virtualbox:/tmp/.ICE-unix/804' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/804,unix/jason-virtualbox:/tmp/.ICE-unix/804' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/802,unix/jason-virtualbox:/tmp/.ICE-unix/802' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/802,unix/jason-virtualbox:/tmp/.ICE-unix/802' from launcher.
 vmware-user: could not open /proc/fs/vmblock/dev
 Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
-** Message: 06:46:17.300: updates_checker.vala:71: check updates
+** Message: 07:44:00.934: updates_checker.vala:71: check updates
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
-** Message: 06:46:20.608: updates_checker.vala:101: 0 updates found
+** Message: 07:44:04.450: updates_checker.vala:101: 0 updates found
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
@@ -21,105 +21,7 @@ kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: PID 1133 terminated.
-kdeinit5: PID 1118 terminated.
-kdeinit5: PID 1088 terminated.
-kdeinit5: PID 1117 terminated.
-kdeinit5: PID 1345 terminated.
-kdeinit5: PID 1344 terminated.
-kdeinit5: PID 1341 terminated.
-kdeinit5: PID 1346 terminated.
-kdeinit5: PID 1343 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: PID 1573 terminated.
-kdeinit5: PID 1571 terminated.
-kdeinit5: PID 1578 terminated.
-kdeinit5: PID 1577 terminated.
-kdeinit5: PID 1574 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
-
-(firefox:1757): GLib-GIO-WARNING **: 06:53:19.304: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
-kdeinit5: PID 1727 terminated.
-kdeinit5: PID 1725 terminated.
-kdeinit5: PID 1732 terminated.
-kdeinit5: PID 1728 terminated.
-kdeinit5: PID 1729 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: PID 3702 terminated.
-kdeinit5: PID 3597 terminated.
-kdeinit5: PID 3598 terminated.
-kdeinit5: PID 3610 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: PID 4584 terminated.
-kdeinit5: PID 4585 terminated.
-kdeinit5: PID 4588 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: PID 5692 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: PID 5689 terminated.
-kdeinit5: PID 5687 terminated.
-kdeinit5: PID 5682 terminated.
-kdeinit5: PID 3519 terminated.
-kdeinit5: PID 5688 terminated.
-kdeinit5: PID 5681 terminated.
-kdeinit5: PID 5683 terminated.
-kdeinit5: PID 5690 terminated.
-kdeinit5: PID 5700 terminated.
+kdeinit5: PID 1168 terminated.
+kdeinit5: PID 1108 terminated.
+kdeinit5: PID 1110 terminated.
+kdeinit5: PID 1076 terminated.
