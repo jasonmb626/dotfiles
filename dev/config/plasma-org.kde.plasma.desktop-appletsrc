@@ -77,7 +77,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=0
+PreloadWeight=25
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -131,7 +131,7 @@ ToolBoxButtonX=287
 ToolBoxButtonY=30
 
 [Containments][17][Wallpaper][org.kde.image][General]
-Image=/home/jason/git/dotfiles/dev/local/share/wallpapers/3908317.jpg
+Image=file:///home/jason/git/dotfiles/dev/local/share/wallpapers/3908317.jpg
 SlidePaths=/home/jason/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][8]
@@ -148,7 +148,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][10][Configuration]
-PreloadWeight=0
+PreloadWeight=20
 
 [Containments][8][Applets][11]
 immutability=1
@@ -213,12 +213,19 @@ plugin=org.kde.plasma.keyboardindicator
 [Containments][8][Applets][9][Configuration]
 PreloadWeight=0
 
+[Containments][8][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][8][Configuration]
 PreloadWeight=0
 
 [Containments][8][General]
 extraItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.volume
 knownItems=org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.mediacontroller,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.devicenotifier,org.kde.plasma.printmanager,org.kde.plasma.volume
+
+[Containments][8][Shortcuts]
+global=Meta+;
 
 [ScreenMapping]
 itemsOnDisabledScreens=
