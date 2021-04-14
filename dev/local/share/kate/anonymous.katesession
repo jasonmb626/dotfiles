@@ -1,12 +1,12 @@
 [Document 0]
 Bookmarks=
 Encoding=UTF-8
-Highlighting=None
+Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=Bash
 Mode Set By User=false
-URL=
+URL=file:///home/jason/src/dotfiles/dev/install.sh
 
 [Kate Plugins]
 externaltoolsplugin=true
@@ -34,11 +34,11 @@ textfilterplugin=true
 
 [MainWindow0]
 Active ViewSpace=0
-Kate-MDI-H-Splitter=200,569,200
+Kate-MDI-H-Splitter=200,575,200
 Kate-MDI-Sidebar-0-Splitter=0,0,0
 Kate-MDI-Sidebar-1-Splitter=
 Kate-MDI-Sidebar-2-Splitter=
-Kate-MDI-Sidebar-3-Splitter=0,0,0
+Kate-MDI-Sidebar-3-Splitter=575,0,0
 Kate-MDI-Sidebar-Style=2
 Kate-MDI-Sidebar-Visible=true
 Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
@@ -65,30 +65,39 @@ Kate-MDI-ToolView-kateprojectinfo-Persistent=false
 Kate-MDI-ToolView-kateprojectinfo-Position=3
 Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
 Kate-MDI-ToolView-kateprojectinfo-Visible=false
-Kate-MDI-V-Splitter=150,280,200
-State=AAAA/wAAAAD9AAAAAAAAAlsAAAE2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
-VGA-1 Height 1360x768=337
-VGA-1 Width 1360x768=603
-VGA-1 XPosition 1360x768=752
-VGA-1 YPosition 1360x768=427
+Kate-MDI-V-Splitter=150,301,200
+State=AAAA/wAAAAD9AAAAAAAAAl0AAAFLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+VGA-1 Height 1360x768=361
+VGA-1 Width 1360x768=605
+VGA-1 XPosition 1360x768=749
+VGA-1 YPosition 1360x768=35
 
 [MainWindow0 Settings]
-State=AAAA/wAAAAD9AAAAAAAAAlsAAAE2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
-VGA-1 Height 1360x768=337
-VGA-1 Width 1360x768=603
-VGA-1 XPosition 1360x768=752
-VGA-1 YPosition 1360x768=427
+State=AAAA/wAAAAD9AAAAAAAAAl0AAAFLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+VGA-1 Height 1360x768=361
+VGA-1 Width 1360x768=605
+VGA-1 XPosition 1360x768=749
+VGA-1 YPosition 1360x768=35
 WindowState=8
 
 [MainWindow0-Splitter 0]
 Children=MainWindow0-ViewSpace 0
 Orientation=1
-Sizes=569
+Sizes=575
 
 [MainWindow0-ViewSpace 0]
-Active View=
+Active View=file:///home/jason/src/dotfiles/dev/install.sh
 Count=1
-Documents=\\0
+Documents=file:///home/jason/src/dotfiles/dev/install.sh
+View 0=file:///home/jason/src/dotfiles/dev/install.sh
+
+[MainWindow0-ViewSpace 0 file:///home/jason/src/dotfiles/dev/install.sh]
+CursorColumn=67
+CursorLine=15
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=.,13,4,[,13,0,],13,4
 
 [Open Documents]
 Count=1
@@ -122,12 +131,12 @@ HiddenFiles=false
 MatchCase=false
 Place=1
 Recursive=true
-Replaces=
+Replaces=git
 Search=
 SearchDiskFiles=
 SearchDiskFiless=
 UseRegExp=false
 
 [Recent Files]
-File1[$e]=$HOME/nord.colorscheme
-Name1[$e]=nord.colorscheme
+File1[$e]=$HOME/src/dotfiles/dev/install.sh
+Name1[$e]=install.sh

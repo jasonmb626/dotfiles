@@ -9,3 +9,15 @@ Mode=Normal
 Mode Set By User=false
 Time=2021,4,13,12,1,23.079
 URL=file:///home/jason/nord.colorscheme
+
+[file:///home/jason/src/dotfiles/dev/install.sh]
+Bookmarks=
+Checksum=4cc71352548897571f50eeae152d1fc97f2a1493
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2021,4,14,15,19,45.776
+URL=file:///home/jason/src/dotfiles/dev/install.sh
