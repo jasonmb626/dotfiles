@@ -1,18 +1,18 @@
 kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
-kdeinit5: Launched KLauncher, pid = 719, result = 0
+kdeinit5: Launched KLauncher, pid = 727, result = 0
 kdeinit5: opened connection to :0
 kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/jason/.gtkrc:/home/jason/.config/gtkrc' from launcher.
 kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/jason/.gtkrc-2.0:/home/jason/.config/gtkrc-2.0' from launcher.
 kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
 kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/792,unix/jason-virtualbox:/tmp/.ICE-unix/792' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/792,unix/jason-virtualbox:/tmp/.ICE-unix/792' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/799,unix/jason-virtualbox:/tmp/.ICE-unix/799' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/799,unix/jason-virtualbox:/tmp/.ICE-unix/799' from launcher.
 vmware-user: could not open /proc/fs/vmblock/dev
 Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
-** Message: 10:13:12.322: updates_checker.vala:71: check updates
+** Message: 06:41:04.526: updates_checker.vala:71: check updates
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
-** Message: 10:13:17.387: updates_checker.vala:101: 0 updates found
+** Message: 06:41:07.846: updates_checker.vala:101: 0 updates found
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
@@ -21,40 +21,16 @@ kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: PID 1119 terminated.
-kdeinit5: PID 1107 terminated.
-kdeinit5: PID 1135 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
 kdeinit5: PID 1118 terminated.
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/thumbnail.so' from launcher.
-kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/thumbnail.so'
-kdeinit5: PID 1380 terminated.
-kdeinit5: PID 1382 terminated.
-kdeinit5: PID 1386 terminated.
-kdeinit5: PID 1387 terminated.
-kdeinit5: PID 1388 terminated.
-kdeinit5: PID 1389 terminated.
-kdeinit5: PID 1381 terminated.
-kdeinit5: PID 1390 terminated.
-kdeinit5: PID 1294 terminated.
-kdeinit5: PID 1288 terminated.
-kdeinit5: PID 1287 terminated.
+kdeinit5: PID 1074 terminated.
+kdeinit5: PID 1117 terminated.
