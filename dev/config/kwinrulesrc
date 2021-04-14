@@ -1,2 +1,14 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Window settings for firefox
+noborder=true
+noborderrule=2
+types=1
+wmclass=.*
+wmclasscomplete=true
+wmclassmatch=3
+
+[General]
+count=1

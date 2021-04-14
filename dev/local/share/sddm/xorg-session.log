@@ -1,27 +1,50 @@
 kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
-kdeinit5: Launched KLauncher, pid = 731, result = 0
+kdeinit5: Launched KLauncher, pid = 4424, result = 0
 kdeinit5: opened connection to :0
 kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
 kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
 kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/jason/.gtkrc:/home/jason/.config/gtkrc' from launcher.
 kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/jason/.gtkrc-2.0:/home/jason/.config/gtkrc-2.0' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/802,unix/jason-virtualbox:/tmp/.ICE-unix/802' from launcher.
-kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/802,unix/jason-virtualbox:/tmp/.ICE-unix/802' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/4691,unix/jason-virtualbox:/tmp/.ICE-unix/4691' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jason-virtualbox:@/tmp/.ICE-unix/4691,unix/jason-virtualbox:/tmp/.ICE-unix/4691' from launcher.
 vmware-user: could not open /proc/fs/vmblock/dev
 Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
-** Message: 07:44:00.934: updates_checker.vala:71: check updates
+** Message: 09:14:56.241: updates_checker.vala:71: check updates
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/desktop.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/desktop.so'
-** Message: 07:44:04.450: updates_checker.vala:101: 0 updates found
+** Message: 09:15:01.828: updates_checker.vala:101: 0 updates found
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/trash.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/trash.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/tags.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/tags.so'
 kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/file.so' from launcher.
 kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/file.so'
-kdeinit5: PID 1168 terminated.
-kdeinit5: PID 1108 terminated.
-kdeinit5: PID 1110 terminated.
-kdeinit5: PID 1076 terminated.
+
+(firefox:12486): GLib-GIO-WARNING **: 09:16:08.393: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+kdeinit5: PID 5344 terminated.
+kdeinit5: PID 5590 terminated.
+kdeinit5: PID 5239 terminated.
+kdeinit5: PID 5339 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/qt/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/qt/plugins/kf5/kio/http.so'
+kdeinit5: PID 86721 terminated.
+kdeinit5: PID 86725 terminated.
+kdeinit5: PID 86718 terminated.
+kdeinit5: PID 86719 terminated.
+kdeinit5: PID 86715 terminated.
+** Message: 09:35:15.866: updates_checker.vala:71: check updates
+** Message: 09:35:16.882: updates_checker.vala:101: 0 updates found
+** Message: 09:35:45.810: updates_checker.vala:71: check updates
+** Message: 09:35:46.858: updates_checker.vala:101: 0 updates found

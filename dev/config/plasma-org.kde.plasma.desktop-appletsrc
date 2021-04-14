@@ -21,7 +21,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][2][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][1][Applets][2][Configuration][General]
 favorites=firefox.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
@@ -33,16 +33,21 @@ global=Alt+F1
 [Containments][1][Applets][2][Shortcuts]
 global=Alt+F1
 
-[Containments][1][Applets][3]
+[Containments][1][Applets][20]
 immutability=1
-plugin=org.kde.plasma.pager
+plugin=org.kde.activeWindowControl
 
-[Containments][1][Applets][3][Configuration]
-PreloadWeight=0
+[Containments][1][Applets][21]
+immutability=1
+plugin=org.kde.plasma.virtualdesktopbar
 
-[Containments][1][Applets][3][Configuration][ConfigDialog]
+[Containments][1][Applets][21][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
+
+[Containments][1][Applets][21][Configuration][Preferences]
+AddDesktopButtonShow=false
+DesktopLabelsStyle=1
 
 [Containments][1][Applets][4]
 immutability=1
@@ -103,7 +108,7 @@ DialogWidth=1360
 PreloadWeight=0
 
 [Containments][1][General]
-AppletOrder=2;3;4;5;6;7;8
+AppletOrder=2;20;4;21;5;6;7;8
 
 [Containments][17]
 activityId=28ef6909-9e27-4029-aa3c-b8d94ea7075c
