@@ -43,4 +43,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/jason/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0/themes/nord-color-theme.json" added="2021-04-14T12:01:57.763325Z" modified="2021-04-14T12:01:57.763335Z" visited="2021-04-14T12:01:57.763327Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-04-14T12:01:57.763330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

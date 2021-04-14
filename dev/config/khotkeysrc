@@ -78,7 +78,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_1_3Actions0]
-CommandURL=
+CommandURL=firefox.desktop
 Type=MENUENTRY
 
 [Data_1_3Conditions]
@@ -104,7 +104,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_1_4Actions0]
-CommandURL=
+CommandURL=code-oss.desktop
 Type=MENUENTRY
 
 [Data_1_4Conditions]
@@ -130,7 +130,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_1_5Actions0]
-CommandURL=
+CommandURL=org.kde.dolphin.desktop
 Type=MENUENTRY
 
 [Data_1_5Conditions]
