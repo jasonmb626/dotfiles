@@ -335,7 +335,7 @@ function theme.at_screen_connect(s)
     gears.wallpaper.maximized(wallpaper, s, true)
 
     -- Tags
-    awful.tag(awful.util.tagnames, s, awful.layout.layouts)
+    awful.tag({"●", "●", "●", "●", "●", "●"}, s, awful.layout.layouts)
 
     -- Create a promptbox for each screen
     s.mypromptbox = awful.widget.prompt()
@@ -355,7 +355,10 @@ function theme.at_screen_connect(s)
     s.mytasklist = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, awful.util.tasklist_buttons)
 
     -- Create the wibox
-    s.mywibox = awful.wibar({ position = "top", screen = s, height = dpi(16), bg = theme.bg_normal, fg = theme.fg_normal })
+    s.mywibox = awful.wibar({ screen = s, width = "96%", x = "2.5%", y=50, height = dpi(16), bg = theme.bg_normal, fg = theme.fg_normal, opacity=0.9,
+    shape = function (cr, w, h) 
+	gears.shape.rounded_bar(cr, w, h)	
+    end})
 
     -- Add widgets to the wibox
     s.mywibox:setup {
