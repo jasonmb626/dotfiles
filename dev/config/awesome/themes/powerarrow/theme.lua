@@ -101,6 +101,21 @@ theme.titlebar_maximized_button_normal_inactive = theme.dir .. "/icons/titlebar/
 local markup = lain.util.markup
 local separators = lain.util.separators
 
+-- Textclock
+--os.setlocale(os.getenv("LANG")) -- to localize the clock
+local mytextclock = wibox.widget.textclock("<span font='Terminus 5'> </span>%H:%M ")
+mytextclock.font = theme.font
+
+-- Calendar
+theme.cal = lain.widget.cal({
+    attach_to = { mytextclock },
+    notification_preset = {
+        font = "Terminus 11",
+        fg   = theme.fg_normal,
+        bg   = theme.bg_normal
+    }
+})
+
 -- Binary clock
 local binclock = require("themes.powerarrow.binclock"){
     height = dpi(32),
@@ -352,8 +367,9 @@ function theme.at_screen_connect(s)
             s.mypromptbox,
             spr,
         },
-        s.mytasklist, -- Middle widget
+	s.mytasklist, -- Middle widget
         { -- Right widgets
+	    mytextclock,
             layout = wibox.layout.fixed.horizontal,
             wibox.widget.systray(),
             wibox.container.margin(scissors, dpi(4), dpi(8)),
