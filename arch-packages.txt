@@ -1,0 +1,14 @@
+git
+ssh
+picom
+unzip
+termite
+vbox-guest-utils
+vbox-guest-utils-nox (if no gui)
+clipmenu
+zsh
+code
+ranger
+caja
+firefox
+chromium
