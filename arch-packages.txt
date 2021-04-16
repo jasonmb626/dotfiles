@@ -12,3 +12,6 @@ ranger
 caja
 firefox
 chromium
+
+AUR
+picom-jonaburg-git

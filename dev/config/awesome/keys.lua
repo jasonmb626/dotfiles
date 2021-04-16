@@ -7,6 +7,8 @@ local modkey       = "Mod4"
 local altkey       = "Mod1"
 local keys	   = { }
 
+keys.terminal     = "termite"
+
 -- {{{ Key bindings
 keys.globalkeys = mytable.join(
     awful.key({ modkey,           }, "F1",      hotkeys_popup.show_help,
@@ -66,7 +68,7 @@ keys.globalkeys = mytable.join(
         {description = "go back", group = "client"}),
 
     -- Standard program
-    awful.key({ modkey, "Mod1" }, "Return", function () awful.spawn(terminal) end,
+    awful.key({ modkey, "Mod1" }, "Return", function () awful.spawn(keys.terminal) end,
               {description = "open a terminal", group = "launcher"}),
     awful.key({ modkey, "Mod1" }, "n", function () awful.spawn("firefox") end,
               {description = "open a terminal", group = "launcher"}),

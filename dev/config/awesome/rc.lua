@@ -102,13 +102,12 @@ local themes = {
 local chosen_theme = themes[6]
 local modkey       = "Mod4"
 local altkey       = "Mod1"
-local terminal     = "termite"
 local vi_focus     = false -- vi-like client focus https://github.com/lcpz/awesome-copycats/issues/275
 local cycle_prev   = true  -- cycle with only the previously focused client or all https://github.com/lcpz/awesome-copycats/issues/274
 local editor       = os.getenv("EDITOR") or "vim"
 local browser      = "librewolf"
 
-awful.util.terminal = terminal
+awful.util.terminal = keys.terminal
 awful.util.tagnames = { "1", "2", "3", "4", "5", "6" }
 awful.layout.layouts = {
     awful.layout.suit.tile,
@@ -227,9 +226,9 @@ screen.connect_signal("arrange", function (s)
     local only_one = #s.tiled_clients == 1
     for _, c in pairs(s.clients) do
         if only_one and not c.floating or c.maximized then
-            c.border_width = 20
+            c.border_width = 4
         else
-            c.border_width = 20
+            c.border_width = 4
         end
     end
 end)
@@ -323,7 +322,7 @@ root.keys(keys.globalkeys)
 awful.rules.rules = {
     -- All clients will match this rule.
     { rule = { },
-      properties = { border_width = 10,
+      properties = { border_width = 4,
                      border_color = "#FFF",
                      border_focus = "#FFF",
                      focus = awful.client.focus.filter,
@@ -447,10 +446,14 @@ client.connect_signal("mouse::enter", function(c)
     c:emit_signal("request::activate", "mouse_enter", {raise = vi_focus})
 end)
 
-client.connect_signal("focus", function(c) c.border_color = "#FFF" end)
-client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
+client.connect_signal("focus", function(c)
+	c.border_color = "#73A1A7FF"
+end)
+client.connect_signal("unfocus", function(c)
+	c.border_color = "#5F655EFF"
+end)
 
 -- }}}
 beautiful.useless_gap = 4
 
---awful.spawn.with_shell("picom &")
+awful.spawn.with_shell("picom &")
