@@ -334,8 +334,6 @@ awful.rules.rules = {
                      size_hints_honor = false
      }
     },
-    { rule = { class = "firefox" },
-          properties = { opacity = 1, maximized = false, floating = false } },
 
     -- Floating clients.
     { rule_any = {
@@ -360,6 +358,7 @@ awful.rules.rules = {
         -- and the name shown there might not match defined rules here.
         name = {
           "Event Tester",  -- xev.
+	  "Quit and close tabs?", --firefox close
         },
         role = {
           "AlarmWindow",  -- Thunderbird's calendar.
@@ -376,6 +375,10 @@ awful.rules.rules = {
     -- Set Firefox to always map on the tag named "2" on screen 1.
     -- { rule = { class = "Firefox" },
     --   properties = { screen = 1, tag = "2" } },
+    { rule = { class = "firefox" },
+          properties = { opacity = 1, maximized = false, floating = false } },
+    { rule = { class = "pamac-manager" },
+          properties = { maximized = false, floating = false } },
 }
 
 -- }}}
@@ -464,4 +467,5 @@ end)
 -- }}}
 beautiful.useless_gap = 4
 
-awful.spawn.with_shell("picom &")
+awful.spawn.with_shell("picom --experimental-backend &")
+awful.spawn.with_shell("/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &")

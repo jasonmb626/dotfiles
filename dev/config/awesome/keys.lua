@@ -7,7 +7,7 @@ local modkey       = "Mod4"
 local altkey       = "Mod1"
 local keys	   = { }
 
-keys.terminal     = "termite"
+keys.terminal     = "alacritty"
 
 -- {{{ Key bindings
 keys.globalkeys = mytable.join(
@@ -54,6 +54,10 @@ keys.globalkeys = mytable.join(
               {description = "swap with below", group = "client"}),
     awful.key({ modkey, "Shift"   }, "k", function () awful.client.swap.bydirection("up")    end,
               {description = "swap with above", group = "client"}),
+    awful.key({ modkey, "Shift"   }, "h", function () awful.client.swap.bydirection("left")    end,
+              {description = "swap with left", group = "client"}),
+    awful.key({ modkey, "Shift"   }, "l", function () awful.client.swap.bydirection("right")    end,
+              {description = "swap with right", group = "client"}),
     awful.key({ modkey, }, ">", function () awful.screen.focus_relative( 1) end,
               {description = "focus the next screen", group = "screen"}),
     awful.key({ modkey, }, "<", function () awful.screen.focus_relative(-1) end,
