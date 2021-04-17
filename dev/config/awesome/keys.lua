@@ -19,6 +19,8 @@ keys.globalkeys = mytable.join(
               {description = "view next", group = "tag"}),
     awful.key({ modkey,           }, "Escape", awful.tag.history.restore,
               {description = "go back", group = "tag"}),
+    awful.key({ modkey, "Shift"          }, "\\", function () awful.layout.inc( 1) end,
+              {description = "Cycle layout", group = "tag"}),
 
     awful.key({ modkey,           }, "j",
         function ()
@@ -74,6 +76,8 @@ keys.globalkeys = mytable.join(
               {description = "open a terminal", group = "launcher"}),
     awful.key({ modkey, "Mod1" }, "y", function () awful.spawn("pcmanfm") end,
               {description = "open a terminal", group = "launcher"}),
+    awful.key({ modkey, "Mod1" }, "/", function () awful.spawn("code") end,
+              {description = "open a terminal", group = "launcher"}),
     awful.key({ modkey, "Mod1", "Control" }, "r", awesome.restart,
               {description = "reload awesome", group = "awesome"}),
     awful.key({ modkey, "Mod1", "Control" }, "q", awesome.quit,
@@ -83,6 +87,10 @@ keys.globalkeys = mytable.join(
               {description = "increase master width factor", group = "layout"}),
     awful.key({ modkey, "Control" }, "h",     function () awful.tag.incmwfact(-0.05)          end,
               {description = "decrease master width factor", group = "layout"}),
+    awful.key({ modkey, "Control" }, "j",     function () awful.client.incwfact(0.05)          end,
+              {description = "increase window height factor", group = "layout"}),
+    awful.key({ modkey, "Control" }, "k",     function () awful.client.incwfact(-0.05)          end,
+              {description = "decrease window height factor", group = "layout"}),
     awful.key({ modkey, }, "+",     function () awful.tag.incnmaster( 1, nil, true) end,
               {description = "increase the number of master clients", group = "layout"}),
     awful.key({ modkey, }, "_",     function () awful.tag.incnmaster(-1, nil, true) end,
@@ -380,7 +388,7 @@ awful.key({ modkey, "Mod1", "Control", "Shift" }, "o",
 
 
 keys.clientkeys = mytable.join(
-    awful.key({ modkey,           }, "W",
+    awful.key({ modkey, "Shift"          }, "w",
         function (c)
             c.fullscreen = not c.fullscreen
             c:raise()

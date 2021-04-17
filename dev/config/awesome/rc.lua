@@ -334,6 +334,8 @@ awful.rules.rules = {
                      size_hints_honor = false
      }
     },
+    { rule = { class = "firefox" },
+          properties = { opacity = 1, maximized = false, floating = false } },
 
     -- Floating clients.
     { rule_any = {

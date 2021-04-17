@@ -300,26 +300,6 @@ local function pl(widget, bgcolor, padding)
     return wibox.container.background(wibox.container.margin(widget, dpi(16), dpi(16)), bgcolor, theme.powerline_rl)
 end
 
-function list_update(w, buttons, label, data, objects, args)
-    -- call default widget drawing function
-    awful.widget.common.list_update(w, buttons, label, data, objects)
-    -- set widget size
-    --w:set_max_widget_size(20)
-    naughty.notify({text = "hi"})
-    naughty.notify({text = "there"})
-    local str = ""
-
-    local i = 0
-    for key, value in pairs(objects[1]) do
-        str = str .. ", " .. key
-	if (math.fmod(i, 7) == 0) then
-	    naughty.notify({text = str})
-            str = ""
-	end
-	i = i + 1
-    end
-end
-
 function theme.at_screen_connect(s)
     -- Quake application
     s.quake = lain.util.quake({ app = awful.util.terminal })
@@ -354,30 +334,6 @@ function theme.at_screen_connect(s)
 	    screen = s, 
 	    filter = awful.widget.tasklist.filter.currenttags, 
 	    buttons = awful.util.tasklist_buttons,
-	   
-	    update_function = list_update,
-	    style = {
-		font = "Terminus 9",
-	        fg_normal="#FFF",
-		fg_focus="#FFF",
-		shape_border_width = 10,
-		shape_border_color = '#444444',
-		shape  = gears.shape.rounded_bar,
-	    },
-	    layout   = {
-		spacing = 10,
-		spacing_widget = {
-		    {
-			forced_width = 5,
-			shape        = gears.shape.circle,
-			widget       = wibox.widget.separator
-		    },
-		    valign = 'center',
-		    halign = 'center',
-		    widget = wibox.container.place,
-		},
-		layout  = wibox.layout.fixed.horizontal
-	    },
     }
 
     -- Create the wibox
@@ -391,7 +347,7 @@ function theme.at_screen_connect(s)
 	layout = wibox.layout.align.horizontal,
 	{ -- Left widgets
 	    layout = wibox.layout.fixed.horizontal,
-	    s.mytasklist,
+	    wibox.container.margin(s.mytasklist, dpi(10), dpi(10)),
 	    s.mypromptbox,
 	    spr,
 	},

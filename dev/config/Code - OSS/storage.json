@@ -2,9 +2,7 @@
     "telemetry.machineId": "471978d5c9252c864462096885b37beeaf9e9c765e0e4f3eb7a7d024d215d375",
     "openedPathsList": {
         "workspaces3": [],
-        "files2": [
-            "file:///home/jason/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0/themes/nord-color-theme.json"
-        ]
+        "files2": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -46,19 +44,6 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "path": "/home/jason/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0/themes/nord-color-theme.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0/themes/nord-color-theme.json"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&More..."
                                 },
@@ -88,11 +73,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -164,11 +151,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -218,11 +207,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1444,15 +1435,15 @@
             "backupPath": "/home/jason/.config/Code - OSS/Backups/1618401328494",
             "uiState": {
                 "mode": 1,
-                "x": 5,
-                "y": 35,
-                "width": 1350,
-                "height": 728
+                "x": 12,
+                "y": 32,
+                "width": 1342,
+                "height": 724
             }
         },
         "openedWindows": []
     },
     "theme": "vs-dark",
-    "themeBackground": "#2e3440",
+    "themeBackground": "#1e1e1e",
     "pickerWorkingDir": "/home/jason/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0/themes"
 }
