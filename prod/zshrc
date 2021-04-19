@@ -1,0 +1,10 @@
+# Use powerline
+USE_POWERLINE="true"
+# Source manjaro-zsh-configuration
+if [[ -e ~/.local/share/zshconfig/manjaro-zsh-config ]]; then
+  source ~/.local/share/zshconfig/manjaro-zsh-config
+fi
+# Use manjaro zsh prompt
+if [[ -e ~/.local/share/zshconfig/manjaro-zsh-prompt ]]; then
+  source ~/.local/share/zshconfig/manjaro-zsh-prompt
+fi

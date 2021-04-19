@@ -1,0 +1,37 @@
+[2021-04-14 06:55:49.414] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-04-14 06:55:53.733] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-04-14 06:55:54.173] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.vscodevim.vim-1.19.3: vscodevim.vim
+[2021-04-14 06:55:54.173] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/vscodevim.vim-1.19.3
+[2021-04-14 06:55:54.180] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-04-14 06:55:54.191] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-04-14 06:56:10.399] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-04-14 06:56:11.677] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 undefined
+[2021-04-14 06:56:11.979] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.coenraads.bracket-pair-colorizer-2-0.1.4: coenraads.bracket-pair-colorizer-2
+[2021-04-14 06:56:11.979] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4
+[2021-04-14 06:56:11.981] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2021-04-14 06:56:11.985] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
+[2021-04-14 06:56:12.773] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-14 06:56:21.584] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2021-04-14 06:56:22.483] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint undefined
+[2021-04-14 06:56:22.555] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.dbaeumer.vscode-eslint-2.1.8: dbaeumer.vscode-eslint
+[2021-04-14 06:56:22.555] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.8
+[2021-04-14 06:56:22.558] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2021-04-14 06:56:22.564] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2021-04-14 06:56:34.741] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-04-14 06:56:41.061] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode undefined
+[2021-04-14 06:56:42.274] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.esbenp.prettier-vscode-6.3.2: esbenp.prettier-vscode
+[2021-04-14 06:56:42.275] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/esbenp.prettier-vscode-6.3.2
+[2021-04-14 06:56:42.279] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2021-04-14 06:56:42.284] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2021-04-14 06:56:44.215] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2021-04-14 06:56:44.585] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2021-04-14 06:56:44.640] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2021-04-14 06:56:44.640] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2021-04-14 06:56:44.645] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2021-04-14 06:56:44.657] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code
+[2021-04-14 06:56:59.474] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2021-04-14 06:57:02.878] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons undefined
+[2021-04-14 06:57:06.558] [sharedprocess] [info] Extracted extension to /home/jason/.vscode-oss/extensions/.vscode-icons-team.vscode-icons-11.4.0: vscode-icons-team.vscode-icons
+[2021-04-14 06:57:06.558] [sharedprocess] [info] Renamed to /home/jason/.vscode-oss/extensions/vscode-icons-team.vscode-icons-11.4.0
+[2021-04-14 06:57:06.562] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2021-04-14 06:57:06.570] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons

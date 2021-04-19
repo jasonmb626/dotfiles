@@ -1,0 +1,222 @@
+[2021-04-14 06:55:39.758] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2021-04-14 06:55:39.784] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2021-04-14 06:55:39.788] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2021-04-14 06:55:39.790] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2021-04-14 06:55:39.792] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-04-14 06:55:39.794] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2021-04-14 06:55:39.797] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2021-04-14 06:55:39.798] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2021-04-14 06:55:39.801] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-04-14 06:55:39.803] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2021-04-14 06:55:39.807] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2021-04-14 06:55:39.808] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2021-04-14 06:55:39.810] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2021-04-14 06:55:39.811] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2021-04-14 06:55:39.812] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2021-04-14 06:55:39.816] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-04-14 06:55:39.818] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2021-04-14 06:55:39.818] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-04-14 06:55:39.819] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2021-04-14 06:55:39.821] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2021-04-14 06:55:39.822] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2021-04-14 06:55:39.823] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2021-04-14 06:55:39.825] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2021-04-14 06:55:39.827] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-04-14 06:55:39.828] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-04-14 06:55:39.828] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-04-14 06:55:39.835] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2021-04-14 06:55:39.836] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2021-04-14 06:55:39.837] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2021-04-14 06:55:39.838] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2021-04-14 06:55:39.838] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-04-14 06:55:39.839] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-04-14 06:55:39.840] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2021-04-14 06:55:39.841] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2021-04-14 06:55:39.842] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2021-04-14 06:55:39.843] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-04-14 06:55:39.844] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-monokai/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-monokai/package.json'
+[2021-04-14 06:55:39.844] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json'
+[2021-04-14 06:55:39.845] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-solarized-dark/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-solarized-dark/package.json'
+[2021-04-14 06:55:39.846] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json'
+[2021-04-14 06:55:39.847] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-defaults/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-defaults/package.json'
+[2021-04-14 06:55:39.847] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-quietlight/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-quietlight/package.json'
+[2021-04-14 06:55:39.856] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2021-04-14 06:55:55.964] [renderer1] [error] ENOENT: no such file or directory, open '/home/jason/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/jason/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+[2021-04-14 06:55:58.405] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2021-04-14 06:55:58.423] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2021-04-14 06:55:58.424] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2021-04-14 06:55:58.426] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2021-04-14 06:55:58.427] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-04-14 06:55:58.429] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2021-04-14 06:55:58.431] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-04-14 06:55:58.432] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2021-04-14 06:55:58.433] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2021-04-14 06:55:58.434] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2021-04-14 06:55:58.436] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2021-04-14 06:55:58.437] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2021-04-14 06:55:58.438] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2021-04-14 06:55:58.439] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2021-04-14 06:55:58.440] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2021-04-14 06:55:58.442] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-04-14 06:55:58.442] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2021-04-14 06:55:58.443] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-04-14 06:55:58.445] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2021-04-14 06:55:58.446] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2021-04-14 06:55:58.448] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2021-04-14 06:55:58.449] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2021-04-14 06:55:58.451] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2021-04-14 06:55:58.452] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-04-14 06:55:58.453] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-04-14 06:55:58.455] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-04-14 06:55:58.455] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2021-04-14 06:55:58.457] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2021-04-14 06:55:58.458] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2021-04-14 06:55:58.459] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2021-04-14 06:55:58.461] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-04-14 06:55:58.462] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-04-14 06:55:58.463] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2021-04-14 06:55:58.464] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2021-04-14 06:55:58.466] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2021-04-14 06:55:58.467] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2021-04-14 06:55:58.468] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-monokai/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-monokai/package.json'
+[2021-04-14 06:55:58.471] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json'
+[2021-04-14 06:55:58.472] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-solarized-dark/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-solarized-dark/package.json'
+[2021-04-14 06:55:58.472] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json'
+[2021-04-14 06:55:58.478] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-defaults/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-defaults/package.json'
+[2021-04-14 06:55:58.479] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-quietlight/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-quietlight/package.json'
+[2021-04-14 06:55:58.480] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2021-04-14 06:56:01.969] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2021-04-14 06:56:01.977] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/julia/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/julia/package.json'
+[2021-04-14 06:56:01.978] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2021-04-14 06:56:01.978] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2021-04-14 06:56:01.981] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2021-04-14 06:56:01.983] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2021-04-14 06:56:01.984] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2021-04-14 06:56:01.985] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-04-14 06:56:01.986] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2021-04-14 06:56:01.986] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2021-04-14 06:56:01.987] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2021-04-14 06:56:01.988] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-04-14 06:56:01.988] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2021-04-14 06:56:01.992] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json'
+[2021-04-14 06:56:01.993] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/perl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/perl/package.json'
+[2021-04-14 06:56:01.996] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/pug/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/pug/package.json'
+[2021-04-14 06:56:01.998] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-04-14 06:56:02.000] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json'
+[2021-04-14 06:56:02.001] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/r/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/r/package.json'
+[2021-04-14 06:56:02.002] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json'
+[2021-04-14 06:56:02.002] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/php/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/php/package.json'
+[2021-04-14 06:56:02.003] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-04-14 06:56:02.004] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2021-04-14 06:56:02.004] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2021-04-14 06:56:02.006] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2021-04-14 06:56:02.007] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json'
+[2021-04-14 06:56:02.007] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/swift/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/swift/package.json'
+[2021-04-14 06:56:02.008] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-04-14 06:56:02.009] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json'
+[2021-04-14 06:56:02.009] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2021-04-14 06:56:02.010] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2021-04-14 06:56:02.010] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2021-04-14 06:56:02.011] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-04-14 06:56:02.012] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2021-04-14 06:56:02.013] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2021-04-14 06:56:02.014] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json'
+[2021-04-14 06:56:02.015] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-04-14 06:56:02.015] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-04-14 06:56:02.016] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2021-04-14 06:56:02.018] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json'
+[2021-04-14 06:56:02.904] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2021-04-14 06:56:02.910] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/julia/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/julia/package.json'
+[2021-04-14 06:56:02.911] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2021-04-14 06:56:02.912] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2021-04-14 06:56:02.918] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2021-04-14 06:56:02.920] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2021-04-14 06:56:02.922] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2021-04-14 06:56:02.924] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2021-04-14 06:56:02.925] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2021-04-14 06:56:02.941] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2021-04-14 06:56:02.942] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2021-04-14 06:56:02.954] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2021-04-14 06:56:02.957] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2021-04-14 06:56:02.958] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/sql/package.json'
+[2021-04-14 06:56:02.959] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/perl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/perl/package.json'
+[2021-04-14 06:56:02.960] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/pug/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/pug/package.json'
+[2021-04-14 06:56:02.961] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-04-14 06:56:02.962] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json'
+[2021-04-14 06:56:02.963] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/r/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/r/package.json'
+[2021-04-14 06:56:02.964] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shaderlab/package.json'
+[2021-04-14 06:56:02.965] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/php/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/php/package.json'
+[2021-04-14 06:56:02.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2021-04-14 06:56:02.969] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2021-04-14 06:56:02.971] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2021-04-14 06:56:02.973] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2021-04-14 06:56:02.975] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/scss/package.json'
+[2021-04-14 06:56:02.976] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/swift/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/swift/package.json'
+[2021-04-14 06:56:02.977] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/objective-c/package.json'
+[2021-04-14 06:56:02.978] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/razor/package.json'
+[2021-04-14 06:56:02.980] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2021-04-14 06:56:02.981] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2021-04-14 06:56:02.982] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2021-04-14 06:56:02.982] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-04-14 06:56:02.983] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2021-04-14 06:56:02.984] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2021-04-14 06:56:02.985] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/powershell/package.json'
+[2021-04-14 06:56:02.985] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2021-04-14 06:56:02.986] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2021-04-14 06:56:02.992] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2021-04-14 06:56:02.993] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json'
+[2021-04-14 06:56:22.820] [renderer1] [error] Cannot invoke loadWASM more than once.: Error: Cannot invoke loadWASM more than once.
+    at Object.t.loadWASM (/usr/lib/code/node_modules.asar/vscode-oniguruma/release/main.js:1:4823)
+    at TextMateLoader.loadOniguruma (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:115:19)
+    at new TextMateLoader (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:19:31)
+    at new Settings (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/settings.js:10:31)
+    at new DocumentDecorationManager (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:9:25)
+    at restart (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:42:37)
+    at /home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:7:43
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at C.deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:70656)
+    at l.$deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:19551)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-04-14 06:56:42.659] [renderer1] [error] Cannot invoke loadWASM more than once.: Error: Cannot invoke loadWASM more than once.
+    at Object.t.loadWASM (/usr/lib/code/node_modules.asar/vscode-oniguruma/release/main.js:1:4823)
+    at TextMateLoader.loadOniguruma (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:115:19)
+    at new TextMateLoader (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:19:31)
+    at new Settings (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/settings.js:10:31)
+    at new DocumentDecorationManager (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:9:25)
+    at restart (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:42:37)
+    at /home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:7:43
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at C.deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:70656)
+    at l.$deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:19551)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-04-14 06:56:44.884] [renderer1] [error] Cannot invoke loadWASM more than once.: Error: Cannot invoke loadWASM more than once.
+    at Object.t.loadWASM (/usr/lib/code/node_modules.asar/vscode-oniguruma/release/main.js:1:4823)
+    at TextMateLoader.loadOniguruma (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:115:19)
+    at new TextMateLoader (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:19:31)
+    at new Settings (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/settings.js:10:31)
+    at new DocumentDecorationManager (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:9:25)
+    at restart (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:42:37)
+    at /home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:7:43
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at C.deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:70656)
+    at l.$deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:19551)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-04-14 06:56:53.416] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2021-04-14 06:56:53.421] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2021-04-14 06:56:53.421] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json'
+[2021-04-14 06:56:53.424] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2021-04-14 06:56:53.425] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/image-preview/package.json'
+[2021-04-14 06:56:55.967] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2021-04-14 06:56:57.619] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/theme-seti/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/theme-seti/package.json'
+[2021-04-14 06:57:06.837] [renderer1] [error] Cannot invoke loadWASM more than once.: Error: Cannot invoke loadWASM more than once.
+    at Object.t.loadWASM (/usr/lib/code/node_modules.asar/vscode-oniguruma/release/main.js:1:4823)
+    at TextMateLoader.loadOniguruma (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:115:19)
+    at new TextMateLoader (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/textMateLoader.js:19:31)
+    at new Settings (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/settings.js:10:31)
+    at new DocumentDecorationManager (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:9:25)
+    at restart (/home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:42:37)
+    at /home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:7:43
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at C.deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:70656)
+    at l.$deltaExtensions (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:91:19551)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
