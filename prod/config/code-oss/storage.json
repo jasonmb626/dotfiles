@@ -3,6 +3,7 @@
     "openedPathsList": {
         "workspaces3": [],
         "files2": [
+            "file:///home/jason/git/dotfiles/prod/dconf-settings.ini",
             "file:///home/jason/git/dotfiles/prod/zshrc"
         ]
     },
@@ -49,6 +50,18 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/jason/git/dotfiles/prod/dconf-settings.ini",
+                                        "path": "/home/jason/git/dotfiles/prod/dconf-settings.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/git/dotfiles/prod/dconf-settings.ini"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/jason/git/dotfiles/prod/zshrc",
                                         "path": "/home/jason/git/dotfiles/prod/zshrc",
                                         "scheme": "file"
                                     },
@@ -578,8 +591,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1446,7 +1458,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jason/.config/Code - OSS/Backups/1618830522511",
+            "backupPath": "/home/jason/.config/Code - OSS/Backups/1618836498839",
             "uiState": {
                 "mode": 0,
                 "x": 340,

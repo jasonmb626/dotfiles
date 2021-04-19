@@ -1,0 +1,31 @@
+[2021-04-19 07:48:20.210] [exthost] [info] extension host started
+[2021-04-19 07:48:20.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-19 07:48:20.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-04-19 07:48:20.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-19 07:48:20.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-04-19 07:48:20.366] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2021-04-19 07:48:20.366] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jason/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension
+[2021-04-19 07:48:20.386] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2021-04-19 07:48:20.386] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jason/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2021-04-19 07:48:20.404] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-04-19 07:48:20.404] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jason/.vscode-oss/extensions/vscode-icons-team.vscode-icons-11.4.0/dist/src/vscode-icons.bundle.js
+[2021-04-19 07:48:20.426] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-19 07:48:20.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jason/.vscode-oss/extensions/vscodevim.vim-1.19.3/out/extension
+[2021-04-19 07:48:20.723] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-19 07:48:20.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-19 07:48:20.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-19 07:48:20.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-04-19 07:48:21.605] [exthost] [info] eager extensions activated
+[2021-04-19 07:48:21.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-19 07:48:21.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-19 07:48:21.630] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-19 07:48:21.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-19 07:48:21.631] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-19 07:48:21.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-19 07:48:21.632] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-04-19 07:48:21.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jason/.vscode-oss/extensions/esbenp.prettier-vscode-6.3.2/dist/extension
+[2021-04-19 07:58:55.525] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 07:58:55.525] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-19 07:58:55.548] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:1,$model1) has been disposed"}
+[2021-04-19 07:58:59.330] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-19 07:59:00.342] [exthost] [info] exiting with code 0
