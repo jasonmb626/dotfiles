@@ -1,3 +1,3 @@
-2021/04/19-06:08:41.859 888 Reusing MANIFEST /home/jason/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
-2021/04/19-06:08:41.860 888 Recovering log #3
-2021/04/19-06:08:41.860 888 Reusing old log /home/jason/.config/Code - OSS/Local Storage/leveldb/000003.log 
+2021/04/19-06:44:56.639 99d Reusing MANIFEST /home/jason/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+2021/04/19-06:44:56.639 99d Recovering log #3
+2021/04/19-06:44:56.639 99d Reusing old log /home/jason/.config/Code - OSS/Local Storage/leveldb/000003.log 

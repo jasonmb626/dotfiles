@@ -1,12 +1,12 @@
 [options]
-#allow_bold = true
+allow_bold = true
 #audible_bell = false
 #bold_is_bright = true
 #cell_height_scale = 1.0
 #cell_width_scale = 1.0
 #clickable_url = true
 #dynamic_title = true
-font = Monospace 9
+font = Roboto Mono for Powerline Bold 12
 #fullscreen = true
 #icon_name = terminal
 #mouse_autohide = false
@@ -44,9 +44,10 @@ scrollback_lines = 10000
 cursor = #d8dee9
 cursor_foreground = #2e3440
 
-foreground = #d8dee9
-foreground_bold = #d8dee9
-background = #2e3440
+foreground = #79a7fa
+foreground_bold = #79a7fa
+background = rgba(46, 52, 64, 0.9) 
+#2e3440
 
 highlight = #4c566a
 
