@@ -1,0 +1,55 @@
+[2021-04-21 23:14:01.825] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.onDidChangeTextDocument (/home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:42:26)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at T.$acceptModelChanged (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:142056)
+    at c._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10509)
+    at c._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10201)
+    at c._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:8871)
+    at c._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:7673)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:5782
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at p.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15443)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:29119
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at p.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15443)
+    at t._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:20693)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:17587
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at l.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12808)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12156
+    at Socket.E (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:12375)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-04-21 23:14:02.003] [renderer1] [error] Cannot read property 'getRuleStack' of undefined: TypeError: Cannot read property 'getRuleStack' of undefined
+    at DocumentDecoration.tokenizeLine (/home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:227:35)
+    at DocumentDecoration.onDidChangeTextDocument (/home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecoration.js:39:30)
+    at DocumentDecorationManager.onDidChangeTextDocument (/home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/documentDecorationManager.js:47:32)
+    at /home/jason/git/dotfiles/prod/vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.1.4/out/src/extension.js:30:39
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at T.$acceptModelChanged (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:142056)
+    at c._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10509)
+    at c._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10201)
+    at c._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:8871)
+    at c._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:7673)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:5782
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at p.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15443)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:29119
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at p.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15443)
+    at t._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:20693)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:17587
+    at g.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at l.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12808)
+    at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12156
+    at Socket.E (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:106:12375)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
